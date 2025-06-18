@@ -228,7 +228,7 @@ async function loadEager(doc) {
     let isDebugMode = new URLSearchParams(window.location.search).get('adobe_authoring_enabled') == '1';
 
     if (isStageOrProd && !isDebugMode) {
-      main.style.visibility = 'hidden';
+      //main.style.visibility = 'hidden';
     }
     
     await initAnalyticsTrackingQueue();
