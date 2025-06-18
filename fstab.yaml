@@ -1,6 +1,6 @@
 mountpoints:
   #/: https://drive.google.com/drive/folders/1OulF2dpGr3f_1YVlRpuzhyVuQKCHOc1k 
   /:
-    url: https://author-p109404-e1679850.adobeaemcloud.com/bin/franklin.delivery/salvamolaso/movistarplus/main
+    url: https://author-p158185-e1685520.adobeaemcloud.com/bin/franklin.delivery/salvamolaso/movistarplus/main
     type: markup
     suffix: ".html?wcmmode=disabled"
