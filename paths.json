@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/movistarplus/:/",
-    "/content/movistarplus/metadata.json:/metadata.json",
-    "/content/movistarplus/redirects.json:/redirects.json",
-    "/content/movistarplus/configuration.json:/configuration.json"
+    "/content/movistarpluss/:/",
+    "/content/movistarpluss/metadata.json:/metadata.json",
+    "/content/movistarpluss/redirects.json:/redirects.json",
+    "/content/movistarpluss/configuration.json:/configuration.json"
   ]
 }
